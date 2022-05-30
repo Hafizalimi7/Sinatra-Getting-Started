@@ -3,6 +3,6 @@ require 'sinatra/reloader' if development?
 
 get '/cat' do
   "<div style='border: dashed red'>
-    <img src='http://placekitten.com/500/500'>
+    <img src='https://i.imgur.com/jFaSxym.png'>
    </div>"
 end
